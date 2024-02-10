@@ -1,0 +1,48 @@
+.header{
+    
+    width: 100%; 
+    
+}
+ /* .para{
+    position: fixed;
+    background-color: white;
+  } */
+
+ .para ul{
+    display: flex;
+}
+.para h2 {
+    color:red;
+    margin-right: 200px;
+    font-weight: bold;
+}
+.para p{
+    color: red;
+}
+.para li{
+    list-style: none;
+    
+}
+.header1{
+    margin-left: 100px;
+    display: flex;
+}
+.header1 li{
+    margin-top: 25px;
+    margin-left: 20px;
+    
+}
+.header1 a{
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+#btn3 a{
+    color: white;
+}
+#btn3 button{
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    padding: 2px 20px 2px 20px;
+}

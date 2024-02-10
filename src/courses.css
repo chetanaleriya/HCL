@@ -1,0 +1,18 @@
+.courses{
+    display:  flex;
+}
+.courses{
+    margin-left: 275px;
+}
+.courses1{
+    margin-left: 30px;
+}
+.courses1 p{
+    font-size: 26px;
+}
+#web{
+    color: orangered;
+}
+#programming{
+    color: orangered;
+}

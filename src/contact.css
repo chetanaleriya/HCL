@@ -1,0 +1,59 @@
+.contact{
+    width: 100%;
+    margin-left: 100px;
+}
+.contact1{
+    display:  flex;
+    
+}
+.image{
+    margin-left: 50px;
+}
+.button{
+ margin-top: 50px;
+}
+.button1{
+    padding: 10px;
+    border-radius: 5px;
+}
+.button2{
+    margin-left: 50px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.button1:hover{
+    background-color: aqua;
+    
+}
+.button2:hover{
+    background-color: aqua;
+}
+.contact2{
+    margin-top: 50px;
+}
+.contact2 span{
+    color: aqua;
+    font-size: 24px;
+    margin-top:50px;
+    
+
+}
+.img {
+    display: flex;
+    margin-top: 30px;
+}
+.image1{
+    margin-top: 30px;
+}
+.image2{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.text1 span{
+  margin-top: 30px;
+}
+.button4{
+    padding-left: 10px;
+    margin-left: 20px;
+}

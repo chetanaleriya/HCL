@@ -1,0 +1,12 @@
+.about{
+    display: flex;
+    width: 100%;
+
+}
+.about2{
+    width: 60%;
+}
+.about2 p{
+
+color: steelblue;
+}
